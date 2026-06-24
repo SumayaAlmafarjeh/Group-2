@@ -1,1 +1,2 @@
-# Group-2
+This repository is for Git collaboration practice.
+Created by Team Member Sumaya.
